@@ -12,6 +12,6 @@
 ## Framework
 
 <div>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=C&logoColor=White">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=White">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 </div>
