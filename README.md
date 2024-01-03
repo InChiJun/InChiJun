@@ -88,7 +88,7 @@ https://github.com/InChiJun/SECS
 
 ### **Web_attendance**
 
-[![GitHub](https://img.shields.io/badge/GitHub-blueviolet?style=for-the-badge&logo=github)](https://github.com/InChiJun/Web_attendance)
+[![GitHub](https://img.shields.io/badge/GitHub?style=for-the-badge&logo=github)](https://github.com/InChiJun/Web_attendance)
 
 # Study
 
