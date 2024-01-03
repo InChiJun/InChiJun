@@ -2,30 +2,6 @@
 
 # <p align='center'> Hi There 👋</p>
 
-## language
-
-<div>
-  <img src="https://img.shields.io/badge/C/C99-A8B9CC?style=flat-square&logo=C&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-</div>
-
-## Framework
-
-<div>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=White">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-</div>
-
-## Project
-<div>
-  
-</div>
-
-## Study
-<div>
-  
-</div>
-
 # Introduce
 
 - 한국 성서대학교 컴퓨터소프트웨어학과 4학년(2024년 2월 졸업 예정)
@@ -58,7 +34,6 @@
 </div>
 
 # Project
-
 ### **Tiger**
 
 주제: AqaraLife 디바이스 센싱값 그래프 시각화
