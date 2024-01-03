@@ -125,24 +125,26 @@ Bellvice 프로젝트는 AqaraLife CS문의를 자동 응대할 수 있는 생�
         
 **기간**: 2023.01 ~ 2023.06
 
-**git**: 
+**git**:
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/InChiJun/Mentotee_study)
 
 ### Algorithm(Python)
 
 **기간**: 2022.09. ~ 2022.12.
 
-**git**: https://github.com/InChiJun/Python_algorithm_practice
+**git**:
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/InChiJun/Python_algorithm_practice)
 
 ### Algorithm(Java)
 
 **기간**: 2022.06. ~ 2022.09.
 
-**git**: https://github.com/InChiJun/Java_algorithm_practice[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/InChiJun/Java_algorithm_practice)
+**git**:
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/InChiJun/Java_algorithm_practice)
 
 ### Kotlin
 
 **기간**: 2022.06. ~ 2022.09.
 
-**git**: https://github.com/InChiJun/Kotlin_practice[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/InChiJun/Kotlin_practice)
+**git**:
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/InChiJun/Kotlin_practice)
