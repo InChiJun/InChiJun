@@ -83,8 +83,7 @@ Bellvice 프로젝트는 AqaraLife CS문의를 자동 응대할 수 있는 생�
 
 ### SECS
 
-https://github.com/InChiJun/SECS
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blueviolet?style=for-the-badge&logo=github)](https://github.com/InChiJun/SECS)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/InChiJun/SECS)
 
 ### **Web_attendance**
 
@@ -122,29 +121,24 @@ https://github.com/InChiJun/SECS
     - SMTP
     - DHCP
         
-        ![Computer Science 개념 정리한 노션 페이지](%E1%84%86%E1%85%A1%E1%84%8F%E1%85%B3%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB%20%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%2081a9d6f872b74a758139370ba0af92b6/Untitled%201.png)
-        
-        Computer Science 개념 정리한 노션 페이지
-        
-
 **기간**: 2023.01 ~ 2023.06
 
-**********깃 주소**********: https://github.com/InChiJun/Mentotee_study
+**git**: https://github.com/InChiJun/Mentotee_study[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/InChiJun/Mentotee_study)
 
 ### Algorithm(Python)
 
 **기간**: 2022.09. ~ 2022.12.
 
-**git**: https://github.com/InChiJun/Python_algorithm_practice
+**git**: https://github.com/InChiJun/Python_algorithm_practice[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/InChiJun/Python_algorithm_practice)
 
 ### Algorithm(Java)
 
 **기간**: 2022.06. ~ 2022.09.
 
-**git**: https://github.com/InChiJun/Java_algorithm_practice
+**git**: https://github.com/InChiJun/Java_algorithm_practice[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/InChiJun/Java_algorithm_practice)
 
 ### Kotlin
 
 **기간**: 2022.06. ~ 2022.09.
 
-**git**: https://github.com/InChiJun/Kotlin_practice
+**git**: https://github.com/InChiJun/Kotlin_practice[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/InChiJun/Kotlin_practice)
