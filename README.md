@@ -57,7 +57,7 @@ AqaraLife 인턴 재직 기간 동안 참여한 프로젝트입니다.
     - Lambda 함수 구현
 - Django-plotly-dash 활용
 
-<br>
+---
 ### Bellvice
 
 **주제**: AqaraLife CS 응대 챗봇 제작
@@ -81,18 +81,18 @@ Bellvice 프로젝트는 AqaraLife CS문의를 자동 응대할 수 있는 생�
 - Fine-tune 코드 작성
 - 데이터 수집
 - 데이터 학습
-
+---
 ### SECS
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/InChiJun/SECS)
-
-### **Web_attendance**
+---
+### Web_attendance
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/InChiJun/Web_attendance)
 
 # Study
 
-### **멘토티멘토링**
+### 멘토티멘토링
 
 **소개**
 
