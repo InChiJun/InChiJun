@@ -125,7 +125,8 @@ Bellvice 프로젝트는 AqaraLife CS문의를 자동 응대할 수 있는 생�
         
 **기간**: 2023.01 ~ 2023.06
 
-**git**: https://github.com/InChiJun/Mentotee_study[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/InChiJun/Mentotee_study)
+**git**: https://github.com/InChiJun/Mentotee_study
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/InChiJun/Mentotee_study)
 
 ### Algorithm(Python)
 
