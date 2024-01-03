@@ -86,9 +86,7 @@ Bellvice 프로젝트는 AqaraLife CS문의를 자동 응대할 수 있는 생�
 https://github.com/InChiJun/SECS
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blueviolet?style=for-the-badge&logo=github)](https://github.com/InChiJun/SECS)
 
-### **Web_attendance**
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/InChiJun/Web_attendance)
+### **Web_attendance**[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/InChiJun/Web_attendance)
 
 # Study
 
