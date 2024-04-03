@@ -25,7 +25,7 @@
 
 ### Collaboration Tool
 <div>
-  <img src=https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+  <img src=https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
 </div>
 - github
 - notion
