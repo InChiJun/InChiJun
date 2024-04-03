@@ -26,7 +26,7 @@
 ### Collaboration Tool
 
 <div>
-- github
+  - github
   - notion
   - slack
 </div>
