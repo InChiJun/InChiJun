@@ -24,7 +24,11 @@
 </div>
 
 ### Collaboration Tool
-- github <img src=https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+<div>
+  <img src=https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+  
+</div>
+- github
 - notion
 - slack
 
