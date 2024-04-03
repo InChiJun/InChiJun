@@ -24,12 +24,9 @@
 </div>
 
 ### Collaboration Tool
-
-<div>
-  - github
-  - notion
-  - slack
-</div>
+- github
+- notion
+- slack
 
 # Project
 ### **Tiger**
