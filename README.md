@@ -57,10 +57,10 @@ AqaraLife 인턴 재직 기간 동안 참여한 프로젝트입니다.
 - Django-plotly-dash 활용
 
 ---
-### Web_attendance
+### Chat, 또 너야?
 - code git: [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/InChiJun/c-chat_protocol)
 
-  
+---
 ### Bellvice
 
 **주제**: AqaraLife CS 응대 챗봇 제작
