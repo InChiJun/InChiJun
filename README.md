@@ -33,6 +33,10 @@
 </div>
 
 # Project
+### Chat, 또 너야?
+- code git: [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/InChiJun/c-chat_protocol)
+---
+
 ### **Tiger**
 
 주제: AqaraLife 디바이스 센싱값 그래프 시각화
@@ -55,10 +59,6 @@ AqaraLife 인턴 재직 기간 동안 참여한 프로젝트입니다.
     - Dynamo DB 구축
     - Lambda 함수 구현
 - Django-plotly-dash 활용
-
----
-### Chat, 또 너야?
-- code git: [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/InChiJun/c-chat_protocol)
 
 ---
 ### Bellvice
