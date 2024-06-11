@@ -5,7 +5,8 @@
 # Introduce
 
 - 한국성서대학교 컴퓨터소프트웨어학과 졸업(2018.03 ~ 2024.02)
-- 아카라라이프 연구개발 1팀 인턴 23.07 ~ 23.12
+- 아카라라이프 연구개발 1팀 인턴 (2023.07 ~ 2023.12)
+- KOSTA IoT 시스템 C 개발자 양성과정(2024.03 ~ 2024.07-진행중)
   
 
 # Skill
@@ -13,7 +14,8 @@
 ### Languages
 
 <div>
-  <img src="https://img.shields.io/badge/C/C99-A8B9CC?style=flat-square&logo=C&logoColor=black">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black">
+  <img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 </div>
 
